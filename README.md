@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marta Vasallo</h1>
-<h3 align="center">Web Dev bootcamp graduated at Le Wagon, and I keep working hard to be a front end developer!</h3>
+<h3 align="center">Web Dev bootcamp graduated at Le Wagon, and I keep working hard to become a front end developer!</h3>
 
 - 🌱 I’m currently upskilling **HTML, CSS and JavaScript**
 
